@@ -453,7 +453,6 @@ a:focus {
 .footer-box {
   display: flex;
   align-items: baseline;
-  justify-content: center;
 }
 
 .footer-info {
